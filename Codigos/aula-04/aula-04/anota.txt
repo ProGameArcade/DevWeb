@@ -1,0 +1,10 @@
+container - tamanho fixo = 1320 máximo
+container-fluid - ocupa toda tela - responsivo
+bg-color = cor de fundo com o padrão de cores do BS
+text-color = cor do texto
+display = títulos variando entre 1 e 6
+lead = textos em geral - tenta formatar como lead
+margin e padding = m(margin) p(padding)
+Valores válidos =  0 1 2 3 4 5 == Definido com unidade REM
+t(top) - b(bottom) - s(start == left) e(end == right)
+x(horizontal) - y(vertical)

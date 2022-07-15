@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped:wght@500&display=swap');
+
+.font-principal {
+    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+}
+
+.bg-azul {
+    background-color: rgb(53, 73, 94);
+}
+
+.bg-vermelho {
+    background-color: rgb(177, 23, 23);
+}
